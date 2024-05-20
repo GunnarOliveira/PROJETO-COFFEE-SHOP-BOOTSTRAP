@@ -28,8 +28,6 @@ O site foi desenvolvido para ser totalmente responsivo, garantindo uma experiên
 
 ## 🌍 Deploy
 
-Você pode acessar o site em [URL do Site].
-
-## 🖼️ Demonstração do Layout
+Você pode acessar o site em [[URL](https://gunnaroliveira.github.io/PROJETO-COFFEE-SHOP-BOOTSTRAP/#).
 
 
