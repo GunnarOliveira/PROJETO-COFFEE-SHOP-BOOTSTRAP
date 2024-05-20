@@ -36,4 +36,4 @@ Você pode acessar o site em [URL do Site].
 ![Layout Desktop](./assets/images/layout-desktop-coffee-shop.png)
 
 ### Layout Mobile 📱:
-![Layout Mobile](./assets/images/layout-mobile-coffee-shop.png)
+![Layout Mobile](./assets/images/layout-mobile-coffee-shop.jpeg)
