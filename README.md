@@ -32,8 +32,4 @@ Você pode acessar o site em [URL do Site].
 
 ## 🖼️ Demonstração do Layout
 
-### Layout Desktop 🖥️:
-![Layout Desktop](./assets/images/layout-desktop-coffee-shop.png)
 
-### Layout Mobile 📱:
-![Layout Mobile](./assets/images/layout-mobile-coffee-shop.jpeg)
